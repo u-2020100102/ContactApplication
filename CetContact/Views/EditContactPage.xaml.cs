@@ -35,11 +35,11 @@ public partial class EditContactPage : ContentPage
    
     private  async void SaveButton_Clicked(object sender, EventArgs e)
     {
-        if (NameEntry.Text == null || EmailEntry.Text == null)
+        if (string.IsNullOrEmpty(NameEntry.Text) || string.IsNullOrEmpty(EmailEntry.Text))
         {
-            if (NameEntry.Text == null) popUpLayoutName.IsVisible = true;
+            if (string.IsNullOrEmpty(NameEntry.Text)) popUpLayoutName.IsVisible = true;
             else popUpLayoutName.IsVisible = false;
-            if (EmailEntry.Text == null) popUpLayoutEmail.IsVisible = true;
+            if (string.IsNullOrEmpty(EmailEntry.Text)) popUpLayoutEmail.IsVisible = true;
             else popUpLayoutEmail.IsVisible = false;
             return;
         }

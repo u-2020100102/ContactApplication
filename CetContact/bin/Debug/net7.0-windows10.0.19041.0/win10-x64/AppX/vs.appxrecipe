@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\Yagiz Gural\Desktop\college is a scam\CetContact-master\CetContact\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-12-15T16:25:36.096</Modified>
+      <Modified>2023-12-15T16:43:07.995</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Yagiz Gural\Desktop\college is a scam\CetContact-master\CetContact\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-12-15T16:10:47.179</Modified>
+      <Modified>2023-12-15T16:43:07.694</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Yagiz Gural\Desktop\college is a scam\CetContact-master\CetContact\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\CetContact.runtimeconfig.json">
       <PackagePath>CetContact.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Yagiz Gural\Desktop\college is a scam\CetContact-master\CetContact\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\CetContact.dll">
       <PackagePath>CetContact.dll</PackagePath>
-      <Modified>2023-12-15T16:25:35.078</Modified>
+      <Modified>2023-12-15T16:43:06.819</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Yagiz Gural\Desktop\college is a scam\CetContact-master\CetContact\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>CetContact.exe</PackagePath>
-      <Modified>2023-12-15T16:25:35.138</Modified>
+      <Modified>2023-12-15T16:43:06.891</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Yagiz Gural\Desktop\college is a scam\CetContact-master\CetContact\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\CetContact.deps.json">
       <PackagePath>CetContact.deps.json</PackagePath>
