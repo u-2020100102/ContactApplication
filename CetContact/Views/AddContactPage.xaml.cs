@@ -25,10 +25,22 @@ public partial class AddContactPage : ContentPage
     {
         if(NameEntry.Text == null || EmailEntry.Text == null)
         {
-            if(NameEntry.Text == null) popUpLayoutName.IsVisible = true;
-            else popUpLayoutName.IsVisible = false;
-            if (EmailEntry.Text == null) popUpLayoutEmail.IsVisible = true;
-            else popUpLayoutEmail.IsVisible = true;
+            if (NameEntry.Text == null)
+            {
+                popUpLayoutName.IsVisible = true;
+            }
+            else
+            {
+                popUpLayoutName.IsVisible = false;
+            }
+            if (EmailEntry.Text == null)
+            {
+                popUpLayoutEmail.IsVisible = true;
+            }
+            else
+            {
+                popUpLayoutEmail.IsVisible = false;
+            }
             return;
         }
         ContactInfo contact = new ContactInfo
