@@ -40,7 +40,7 @@ public partial class EditContactPage : ContentPage
             if (NameEntry.Text == null) popUpLayoutName.IsVisible = true;
             else popUpLayoutName.IsVisible = false;
             if (EmailEntry.Text == null) popUpLayoutEmail.IsVisible = true;
-            else popUpLayoutEmail.IsVisible = true;
+            else popUpLayoutEmail.IsVisible = false;
             return;
         }
         contactInfo.Name = NameEntry.Text;
