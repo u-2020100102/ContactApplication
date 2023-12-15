@@ -14,12 +14,12 @@ Also this is the code to handle the process <br/>
 <br/>
 <br/>
 2-REQUIRED FIELD NAME <br/>
-The program gives an error for empty name fields
+The program gives an error for empty name field
 ![image](https://github.com/u-2020100102/ContactApplication/assets/150604726/b6c08309-bb63-4935-99e8-d5e5389f0926) <br/>
 <br/>
 <br/>
 3-REQUIRED FIELD EMAIL <br/>
-The program gives an error for empty name fields
+The program gives an error for empty email field
 ![image](https://github.com/u-2020100102/ContactApplication/assets/150604726/1bc9fe0d-181c-441e-9b99-1c6650b69118)<br/>
 <br/>
 <br/>
